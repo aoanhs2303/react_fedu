@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "tieude": "O du kích nhỏ - chuyện đời sau bức ảnh",
+        "trichdan": "Hội ngộ sau 30 năm, o du kích có gia đình hạnh phúc với ba con, cựu phi công Mỹ Robinson hai lần kết hôn song không có con chung.",
+        "noidung": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "hinhanh": "https://images.pexels.com/photos/1048069/pexels-photo-1048069.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+        "id": 2,
+        "tieude": "Trải nghiệm trại hè chuyên ngành quản trị khách sạn và du lịch",
+        "trichdan": "Tham gia T.H.E. Summer Camp 2018 từ 15 đến 21/7, học sinh được bổ sung lý thuyết chuyên ngành, khám phá văn hóa Thụy Sĩ, Australia.",
+        "noidung": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "hinhanh": "https://images.pexels.com/photos/1048058/pexels-photo-1048058.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+        "id": 3,
+        "tieude": "Hàng nghìn người đổ về bãi biển Nha Trang trong lễ 30/4",
+        "trichdan": "Người dân nhiều nơi đến Nha Trang (Khánh Hòa) du lịch khi nghỉ lễ dài ngày, khiến bãi biển nơi đây cùng các điểm vui chơi đông nghịt.",
+        "noidung": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "hinhanh": "https://i-vnexpress.vnecdn.net/2018/04/29/baibienanh1-1525009287_680x0.jpg"
+    },
+    {
+        "id": 4,
+        "tieude": "O du kích nhỏ - chuyện đời sau bức ảnh",
+        "trichdan": "Hội ngộ sau 30 năm, o du kích có gia đình hạnh phúc với ba con, cựu phi công Mỹ Robinson hai lần kết hôn song không có con chung.",
+        "noidung": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "hinhanh": "https://images.pexels.com/photos/1048069/pexels-photo-1048069.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+        "id": 5,
+        "tieude": "Trải nghiệm trại hè chuyên ngành quản trị khách sạn và du lịch",
+        "trichdan": "Tham gia T.H.E. Summer Camp 2018 từ 15 đến 21/7, học sinh được bổ sung lý thuyết chuyên ngành, khám phá văn hóa Thụy Sĩ, Australia.",
+        "noidung": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "hinhanh": "https://images.pexels.com/photos/1048058/pexels-photo-1048058.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+        "id": 6,
+        "tieude": "Hàng nghìn người đổ về bãi biển Nha Trang trong lễ 30/4",
+        "trichdan": "Người dân nhiều nơi đến Nha Trang (Khánh Hòa) du lịch khi nghỉ lễ dài ngày, khiến bãi biển nơi đây cùng các điểm vui chơi đông nghịt.",
+        "noidung": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "hinhanh": "https://i-vnexpress.vnecdn.net/2018/04/29/baibienanh1-1525009287_680x0.jpg"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Tran Nhu Luc",
+        "tel": "01223543841",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name":"iRon Man",
+        "tel": "090909090",
+        "permission": 2
+    },
+    {
+        "id":3,
+        "name":"Thanos",
+        "tel": "0808080808",
+        "permission": 3
+    },
+    {
+        "id":4,
+        "name":"Black Widow",
+        "tel": "0122222222",
+        "permission": 1
+    }
+]
